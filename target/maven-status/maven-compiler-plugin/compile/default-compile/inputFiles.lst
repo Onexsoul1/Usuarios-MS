@@ -1,0 +1,13 @@
+C:\Users\csoto\Documents\proyectos\usuarios-ms\src\main\java\cl\tuapp\usuariosms\service\UsuarioController.java
+C:\Users\csoto\Documents\proyectos\usuarios-ms\src\main\java\cl\tuapp\usuariosms\dto\LoginResponse.java
+C:\Users\csoto\Documents\proyectos\usuarios-ms\src\main\java\cl\tuapp\usuariosms\repository\RolRepository.java
+C:\Users\csoto\Documents\proyectos\usuarios-ms\src\main\java\cl\tuapp\usuariosms\repository\UsuarioRepository.java
+C:\Users\csoto\Documents\proyectos\usuarios-ms\src\main\java\cl\tuapp\usuariosms\dto\UsuarioCreateDto.java
+C:\Users\csoto\Documents\proyectos\usuarios-ms\src\main\java\cl\tuapp\usuariosms\service\UsuarioService.java
+C:\Users\csoto\Documents\proyectos\usuarios-ms\src\main\java\cl\tuapp\usuariosms\entity\Usuario.java
+C:\Users\csoto\Documents\proyectos\usuarios-ms\src\main\java\cl\tuapp\usuariosms\UsuariosMsApplication.java
+C:\Users\csoto\Documents\proyectos\usuarios-ms\src\main\java\cl\tuapp\usuariosms\entity\Rol.java
+C:\Users\csoto\Documents\proyectos\usuarios-ms\src\main\java\cl\tuapp\usuariosms\dto\UsuarioResponseDto.java
+C:\Users\csoto\Documents\proyectos\usuarios-ms\src\main\java\cl\tuapp\usuariosms\dto\LoginRequest.java
+C:\Users\csoto\Documents\proyectos\usuarios-ms\src\main\java\cl\tuapp\usuariosms\exception\NotFoundException.java
+C:\Users\csoto\Documents\proyectos\usuarios-ms\src\main\java\cl\tuapp\usuariosms\exception\ApiExceptionHandler.java
